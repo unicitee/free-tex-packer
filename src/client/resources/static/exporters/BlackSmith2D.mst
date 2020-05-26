@@ -1,0 +1,8 @@
+{
+    "format":"bta","v":"1.0",
+    "frames": {
+        {{#rects}}
+        "{{{name}}}":[{{frame.x}},{{frame.y}},{{frame.w}},{{frame.h}},{{spriteSourceSize.x}},{{spriteSourceSize.y}},{{spriteSourceSize.w}},{{spriteSourceSize.h}}]{{^last}},{{/last}}
+        {{/rects}}
+    }
+}
