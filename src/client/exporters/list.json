@@ -138,6 +138,14 @@
     "predefined": true
   },
   {
+    "type": "BlackSmith2D",
+    "description": "BlackSmith2D format",
+    "allowTrim": true,
+    "allowRotation": false,
+    "template": "BlackSmith2D.mst",
+    "fileExt": "json"
+  },
+  {
     "type": "custom",
     "description": "Custom format",
     "allowTrim": true,
