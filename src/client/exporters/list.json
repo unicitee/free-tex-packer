@@ -139,7 +139,7 @@
   },
   {
     "type": "BlackSmith 2D",
-    "description": "BlackSmith 2D format",
+    "description": "black-engine format",
     "allowTrim": true,
     "allowRotation": false,
     "template": "BlackSmith2D.mst",
